@@ -1,28 +1,20 @@
-# restaurant-order-system
-Proyecto de Ingeniería de Software: Sistema de gestión de órdenes para restaurante. Incluye plan de pruebas, manual de usuario, tecnologías utilizadas y estrategia de soporte post proyecto.
+# Restaurant Order System
+
+Repositorio que contiene la documentación y evidencias de pruebas para el sistema de gestión de pedidos de restaurante.
 
 ## Contenido del repositorio
 
-- Plan de pruebas del sistema
-- Manual básico de usuario
-- Estrategia de seguimiento y soporte post proyecto
-- Descripción de tecnologías utilizadas
-- Evidencias de pruebas simuladas
+- **test-plan**  
+  Contiene el plan de pruebas del sistema.
 
-## Tecnologías propuestas
+- **test-evidence**  
+  Evidencias de ejecución de los casos de prueba.
 
-Frontend:
-React.js
+- **user-manual**  
+  Manual básico de usuario para interactuar con el sistema.
 
-Backend:
-Node.js con Express
+- **technology-description**  
+  Descripción de las tecnologías utilizadas en el proyecto.
 
-Base de datos:
-MySQL
-
-Control de versiones:
-GitHub
-
-## Metodología de desarrollo
-
-SCRUM (metodología ágil basada en sprints).
+- **support-strategy**  
+  Estrategia de seguimiento y soporte posterior al proyecto.
